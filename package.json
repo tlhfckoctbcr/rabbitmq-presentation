@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/grantsru/rabbitmq-presentation#readme",
   "dependencies": {
+    "pino": "^5.12.5",
+    "pino-pretty": "^3.0.0",
     "rabbot": "^2.1.0"
   }
 }
