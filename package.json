@@ -1,0 +1,23 @@
+{
+  "name": "rabbitmq-presentation",
+  "version": "1.0.0",
+  "description": "RMQ Presentation",
+  "main": "server.js",
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grantsru/rabbitmq-presentation.git"
+  },
+  "author": "grantsru",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/grantsru/rabbitmq-presentation/issues"
+  },
+  "homepage": "https://github.com/grantsru/rabbitmq-presentation#readme",
+  "dependencies": {
+    "rabbot": "^2.1.0"
+  }
+}
